@@ -1,0 +1,14 @@
+@'
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.sqlite3
+*.csv
+
+# OS files
+Thumbs.db
+.DS_Store
+'@ | Out-File .gitignore -Encoding utf8

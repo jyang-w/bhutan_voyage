@@ -1,0 +1,66 @@
+﻿district,place,key,ideal_stay,placeholder_price_nu_per_person,confirmed_price (fill in),photo_status,save_photo_as
+Bumthang,Jambay Lhakhang,jambay-lhakhang,1 day,2500,,needs photo,images/jambay-lhakhang.jpg
+Bumthang,Mebar Tsho,mebar-tsho,1 day,2500,,needs photo,images/mebar-tsho.jpg
+Bumthang,Tamshing Lhakhang,tamshing-lhakhang,1 day,2500,,needs photo,images/tamshing-lhakhang.jpg
+Bumthang,Ugyen Choling Palace,ugyen-choling,1–2 days,3000,,needs photo,images/ugyen-choling.jpg
+Bumthang,Ura Valley,ura-valley,1–2 days,3000,,needs photo,images/ura-valley.jpg
+Chhukha,Kharbandi Goemba,kharbandi-goemba,1 day,2000,,needs photo,images/kharbandi-goemba.jpg
+Chhukha,Phuentsholing and Bhutan Gate,phuentsholing,1 day,2000,,needs photo,images/phuentsholing.jpg
+Chhukha,Zangtho Pelri Lhakhang,zangtho-pelri-phuentsholing,1 day,2000,,needs photo,images/zangtho-pelri-phuentsholing.jpg
+Dagana,Daga Dzong,daga-dzong,1–2 days,2500,,needs photo,images/daga-dzong.jpg
+Dagana,Tseza Village,tseza-village,1–2 days,2500,,needs photo,images/tseza-village.jpg
+Gasa,Gasa Tshachu,gasa-tshachu,1–2 days,3000,,needs photo,images/gasa-tshachu.jpg
+Gasa,Laya Village,laya-village,4–5 days,5000,,needs photo,images/laya-village.jpg
+Haa,Juneydrak Hermitage,juneydrak,1 day,2500,,needs photo,images/juneydrak.jpg
+Haa,White and Black Temples,haa-white-black-temples,1 day,2500,,needs photo,images/haa-white-black-temples.jpg
+Lhuentse,Dungkar Naktshang,dungkar-naktshang,1–2 days,3000,,needs photo,images/dungkar-naktshang.jpg
+Lhuentse,Khoma Village,khoma-village,2–3 days,3500,,needs photo,images/khoma-village.jpg
+Lhuentse,Lhuentse Dzong,lhuentse-dzong,1–2 days,3000,,needs photo,images/lhuentse-dzong.jpg
+Lhuentse,Takila Guru Statue,takila-guru-statue,1–2 days,3000,,needs photo,images/takila-guru-statue.jpg
+Mongar,Drametse Monastery,drametse-monastery,1 day,2500,,needs photo,images/drametse-monastery.jpg
+Mongar,Thrumshingla National Park,thrumshingla,2–3 days,3000,,needs photo,images/thrumshingla.jpg
+Paro,Chele La Pass,chele-la,1 day,2500,,needs photo,images/chele-la.jpg
+Paro,Drukgyal Dzong,drukgyal-dzong,1 day,2000,,needs photo,images/drukgyal-dzong.jpg
+Paro,Kyichu Lhakhang,kyichu-lhakhang,1 day,2000,,needs photo,images/kyichu-lhakhang.jpg
+Paro,National Museum of Bhutan,national-museum,1 day,2000,,needs photo,images/national-museum.jpg
+Paro,Rinpung Dzong,rinpung-dzong,1 day,2500,,needs photo,images/rinpung-dzong.jpg
+Pemagatshel,Pemagatshel Dzong,pemagatshel-dzong,1–2 days,2500,,needs photo,images/pemagatshel-dzong.jpg
+Pemagatshel,Thongsa Cotton Weavers,thongsa-weavers,1 day,2000,,needs photo,images/thongsa-weavers.jpg
+Pemagatshel,Yongla Goenpa,yongla-goenpa,1–2 days,2500,,needs photo,images/yongla-goenpa.jpg
+Punakha,Chimi Lhakhang,chimi-lhakhang,1 day,2500,,needs photo,images/chimi-lhakhang.jpg
+Punakha,Khamsum Yulley Namgyal Chorten,khamsum-yulley,1 day,2500,,needs photo,images/khamsum-yulley.jpg
+Punakha,Mo Chhu River Rafting,punakha-rafting,1 day,3000,,needs photo,images/punakha-rafting.jpg
+Punakha,Punakha Suspension Bridge,punakha-suspension-bridge,1 day,2000,,needs photo,images/punakha-suspension-bridge.jpg
+Samdrup Jongkhar,Samdrup Jongkhar Dzong,sj-dzong,1 day,2000,,needs photo,images/sj-dzong.jpg
+Samdrup Jongkhar,Samdrup Jongkhar Town,sj-town,1–2 days,2000,,needs photo,images/sj-town.jpg
+Samdrup Jongkhar,Zangdo Pelri Lhakhang,sj-zangdo-pelri,1 day,2000,,needs photo,images/sj-zangdo-pelri.jpg
+Samtse,Dorokha,dorokha,2–3 days,3000,,needs photo,images/dorokha.jpg
+Samtse,Samtse Town,samtse-town,1 day,2000,,needs photo,images/samtse-town.jpg
+Samtse,Shivalaya Mandir,shivalaya-mandir,1 day,2000,,have photo,images/shivalaya-mandir.jpg
+Samtse,Sidhok Khorlo Chorten,sidhok-khorlo-chorten,1 day,2000,,needs photo,images/sidhok-khorlo-chorten.jpg
+Sarpang,Gelephu Hot Spring,gelephu-hot-spring,1 day,2500,,needs photo,images/gelephu-hot-spring.jpg
+Sarpang,Gelephu Town,gelephu-town,1 day,2000,,needs photo,images/gelephu-town.jpg
+Thimphu,Changangkha Lhakhang,changangkha-lhakhang,1 day,2000,,needs photo,images/changangkha-lhakhang.jpg
+Thimphu,Cheri Monastery,cheri-monastery,1 day,2500,,needs photo,images/cheri-monastery.jpg
+Thimphu,Folk Heritage Museum,folk-heritage-museum,1 day,2000,,needs photo,images/folk-heritage-museum.jpg
+Thimphu,Motithang Takin Preserve,motithang-takin,1 day,2000,,needs photo,images/motithang-takin.jpg
+Thimphu,National Memorial Chorten,memorial-chorten,1 day,2000,,needs photo,images/memorial-chorten.jpg
+Trashigang,Merak and Sakteng,merak-sakteng,4–5 days,4500,,needs photo,images/merak-sakteng.jpg
+Trashigang,Rangjung Woesel Choling,rangjung-woesel,1 day,2500,,needs photo,images/rangjung-woesel.jpg
+Trashiyangtse,Bumdeling Wildlife Sanctuary,bumdeling,2–3 days,3500,,needs photo,images/bumdeling.jpg
+Trashiyangtse,Chorten Kora,chorten-kora,1 day,2500,,needs photo,images/chorten-kora.jpg
+Trashiyangtse,Institute for Zorig Chusum,zorig-chusum-ty,1 day,2000,,needs photo,images/zorig-chusum-ty.jpg
+Trashiyangtse,Trashiyangtse Dzong,trashiyangtse-dzong,1 day,2000,,needs photo,images/trashiyangtse-dzong.jpg
+Trongsa,Chendebji Chorten,chendebji-chorten,1 day,2000,,needs photo,images/chendebji-chorten.jpg
+Trongsa,Kuenga Rabten Palace,kuenga-rabten,1 day,2500,,needs photo,images/kuenga-rabten.jpg
+Trongsa,Tower of Trongsa,tower-of-trongsa,1 day,3000,,needs photo,images/tower-of-trongsa.jpg
+Tsirang,Damphu Town,damphu-town,1 day,2000,,needs photo,images/damphu-town.jpg
+Tsirang,Tsirang Dzong,tsirang-dzong,1 day,2000,,needs photo,images/tsirang-dzong.jpg
+Wangdue Phodrang,Black-Necked Crane Information Centre,black-necked-crane-centre,1 day,2000,,needs photo,images/black-necked-crane-centre.jpg
+Wangdue Phodrang,Gangtey Monastery,gangtey-monastery,1 day,2500,,needs photo,images/gangtey-monastery.jpg
+Wangdue Phodrang,Gangtey Nature Trail,gangtey-nature-trail,1 day,2000,,needs photo,images/gangtey-nature-trail.jpg
+Wangdue Phodrang,Rinchengang Village,rinchengang,1 day,2000,,needs photo,images/rinchengang.jpg
+Zhemgang,Berti Valley,berti-valley,1–2 days,3000,,needs photo,images/berti-valley.jpg
+Zhemgang,Buli Tsho,buli-tsho,1–2 days,3000,,needs photo,images/buli-tsho.jpg
+Zhemgang,Royal Manas National Park,royal-manas,3–4 days,4500,,needs photo,images/royal-manas.jpg
+Zhemgang,Twin Waterfall,twin-waterfall,1 day,2000,,needs photo,images/twin-waterfall.jpg
